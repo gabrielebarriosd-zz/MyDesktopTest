@@ -1,8 +1,5 @@
 numero de reporte
 telmex
 16583331
-<<<<<<< HEAD
 world
-=======
 hi
->>>>>>> 10637a8d8f40bcd0be9e5724f2a3f71a35f246ba
